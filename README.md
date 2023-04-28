@@ -54,7 +54,8 @@
 
 
 ## OUTPUT
-![Assignment 3 Web (Sujitha S)](https://user-images.githubusercontent.com/129753050/235168346-5a988dea-656b-409e-87a8-e74074dad75b.png)
+![Assignment3](https://user-images.githubusercontent.com/129753050/235168627-0e9e5d02-e3c7-4f31-8575-c696293fe061.png)
+
 
 
 ## RESULT
