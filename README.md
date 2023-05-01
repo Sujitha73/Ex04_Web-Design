@@ -55,6 +55,7 @@
 
 ## OUTPUT
 ![Assignment3](https://user-images.githubusercontent.com/129753050/235168627-0e9e5d02-e3c7-4f31-8575-c696293fe061.png)
+![Assignment42](https://user-images.githubusercontent.com/129753050/235443023-97fde775-f395-48c4-94e3-23a70ea7e2c8.png)
 
 
 
